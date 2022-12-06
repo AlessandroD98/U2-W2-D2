@@ -105,6 +105,7 @@
   Crea un algoritmo per verificare che un valore fornito sia un numero oppure no (suggerimento: cerca su un motore di ricerca "typeof").
 */
 
+
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 9
@@ -135,12 +136,12 @@
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-// let val = 5
-// if (val => 5 && val < 10) {
+// let val = 11
+// if (val >= 5 && val < 10) {
 //     console.log("Meno di 10");
 //   } else if (val < 5) {
 //     console.log("Meno di 5");
-//   } else if (val => 10) {
+//   } else if (val >= 10) {
 //     console.log("Uguale a 10 o maggiore");
 //   }
 
