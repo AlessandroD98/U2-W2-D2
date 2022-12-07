@@ -60,13 +60,13 @@
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-// let totalShoppingCart= 51;
+let totalShoppingCart= 51;
 
-// if (totalShoppingCart > 50) {
-//   console.log ("Spedizione gratis")
-// } else if (totalShoppingCart <= 50){
-//   console.log("Costo spedizione 10")
-// }
+if (totalShoppingCart > 50) {
+  console.log ("Spedizione gratis , Tot", totalShoppingCart)
+} else if (totalShoppingCart <= 50){
+  console.log("Costo spedizione 10 , Tot", totalShoppingCart)
+}
 
 /* ESERCIZIO 6
   Stai lavorando su un sito di e-commerce. Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
